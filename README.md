@@ -112,7 +112,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-*Built by @<your-handle>, 2025*
+*Built by @MihirDbahi, 2025*
 
 ```
 ::contentReference[oaicite:0]{index=0}
